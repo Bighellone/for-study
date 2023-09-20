@@ -1,0 +1,6 @@
+﻿D:\c++1号\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(第一个程序.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  03.cpp
+D:\CODE\C basic code\第一个程序\第一个程序\03.cpp(1,1): warning C4828: 文件包含在偏移 0x90e 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  全局变量.cpp
+  正在生成代码...
+  第一个程序.vcxproj -> D:\CODE\C basic code\第一个程序\x64\Debug\初识.exe
